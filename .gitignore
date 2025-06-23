@@ -1,0 +1,31 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Kotlin/Java
+*.class
+
+# その他
+*.swp
+*.swo
+
+# H2 DBファイル（もしファイルDB使う場合）
+*.mv.db
+*.h2.db
